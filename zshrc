@@ -48,3 +48,4 @@ foreach file (`echo $sources`)
     fi
 end
 
+source ~/.bash_profile
